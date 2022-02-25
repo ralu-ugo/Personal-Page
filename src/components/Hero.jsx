@@ -40,7 +40,7 @@ const Hero = () =>{
                         <div class="header-content-right">
                             <h4 class="sub-title">Hello, I'm</h4>
                             <h1 class="title">Raluchukwu Ugochukwu</h1>
-                            <p>A Full-Stack Developer</p>
+                            <p>Software Engineer</p>
                             <a class="main-btn" href="#work">View my Work</a>
                         </div> 
                     </div>
