@@ -8,7 +8,7 @@ const About = () =>{
                 <div class="col-lg-8">
                     <div class="section-title text-center">
                         <h2 class="title">About Me</h2>
-                        <p>An ambitious Nigerian youth with a dynamic vision on simple to complex algorithms, and an understanding to multi programming languages, some presented below in the portfolio section. 
+                        <p>Ambitious, with a dynamic vision on simple to complex algorithms. I have a solid understanding of frontend (Javascript, React) and backend (Python, Django) tools including version control tools such as git and github; to handle everything from small to large projects with speed and efficiency.
                         </p>
                     </div> 
                 </div>

@@ -18,9 +18,9 @@ const Portfolio = () =>{
                 
                 
             <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-work text-center mt-30">
+                    <div class="single-work text-center mt-30" style = {{border: "1px dashed #754ef9"}}>
                         <div class="work-image">
-                            <img src="assets/images/work/w-4.jpg" alt="work"/>
+                            <img src="assets/images/WordApp.png" alt="word-app"/>
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
@@ -35,9 +35,9 @@ const Portfolio = () =>{
                     </div> 
                 </div>        
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-work text-center mt-30">
+                    <div class="single-work text-center mt-30" style = {{border: "1px dashed #754ef9"}}>
                         <div class="work-image">
-                            <img src="assets/images/work/w-4.jpg" alt="work"/>
+                            <img src="assets/images/BankApp.png" alt="bank-app"/>
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
@@ -51,9 +51,9 @@ const Portfolio = () =>{
                     </div> 
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="single-work text-center mt-30">
+                    <div class="single-work text-center mt-30" style = {{border: "1px dashed #754ef9"}}>
                         <div class="work-image">
-                            <img src="assets/images/work/w-6.jpg" alt="work"/>
+                            <img src="assets/images/Keeper App.png" alt="work"/>
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">

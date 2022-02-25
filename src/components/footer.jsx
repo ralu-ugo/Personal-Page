@@ -12,7 +12,7 @@ const Footer = () =>{
                             {/* <a href="index.html">
                                 <img src="assets/images/logo-2.png" alt="Logo"/>
                             </a> */}
-                            <p class="mt-">An ambitious Nigerian youth with a dynamic vision on simple to complex algorithms, and an understanding to multi programming languages, some presented below in the portfolio section. </p>
+                            <p class="mt-">Ambitious, with a dynamic vision on simple to complex algorithms. I have a solid understanding of frontend (Javascript, React) and backend (Python, Django) tools including version control tools such as git and github; to handle everything from small to large projects with speed and efficiency. </p>
                             <ul>
                                 <li><a href="https://github.com/ralu-ugo" target = "_blank" rel="noreferrer"><i class="lni-github"></i></a></li>
                                 <li><a href="https://www.linkedin.com/in/ralu-ugochukwu-6b6566225/" targegt = "_blank" rel="noreferrer"><i class="lni-linkedin-original"></i></a></li>
