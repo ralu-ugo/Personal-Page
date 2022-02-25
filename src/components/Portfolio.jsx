@@ -27,8 +27,8 @@ const Portfolio = () =>{
                                 <h3 class="work-title">Word App</h3>
                                 <p style = {{color: 'whitesmoke'}}>HTML, CSS</p>
                                 <ul>
-                                    <li><a href="https://use-word-app.herokuapp.com" target = '_blank'><i class="lni-laptop-phone"></i></a></li>
-                                    <li><a href="https://github.com/ralu-ugo/Word-App" target = "_blank"><i class="lni-github"></i></a></li>
+                                    <li><a href="https://use-word-app.herokuapp.com" target = '_blank' rel="noreferrer"><i class="lni-laptop-phone"></i></a></li>
+                                    <li><a href="https://github.com/ralu-ugo/Word-App" target = "_blank" rel="noreferrer"><i class="lni-github"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -44,7 +44,7 @@ const Portfolio = () =>{
                                 <h3 class="work-title">Bank App</h3>
                                 <p style = {{color: 'whitesmoke'}}>Python</p>
                                 <ul>
-                                    <li><a href="https://github.com/ralu-ugo/P.py/blob/main/bank_app.py" target = "_blank"><i class="lni-github"></i></a></li>
+                                    <li><a href="https://github.com/ralu-ugo/P.py/blob/main/bank_app.py" target = "_blank" rel="noreferrer"><i class="lni-github"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -60,8 +60,8 @@ const Portfolio = () =>{
                                 <h3 class="work-title">Keeper App</h3>
                                 <p style = {{color: 'whitesmoke'}}>React JS</p>
                                 <ul>
-                                    <li><a class="image-popup" href="https://use-keeper-app.netlify.app" target = '_blank'><i class="lni-laptop-phone"></i></a></li>
-                                    <li><a href="https://github.com/ralu-ugo/Keeper-App" target = "_blank"><i class="lni-github"></i></a></li>
+                                    <li><a class="image-popup" href="https://use-keeper-app.netlify.app" target = '_blank' rel="noreferrer"><i class="lni-laptop-phone"></i></a></li>
+                                    <li><a href="https://github.com/ralu-ugo/Keeper-App" target = "_blank" rel="noreferrer"><i class="lni-github"></i></a></li>
                                 </ul>
                             </div>
                         </div>

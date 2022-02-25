@@ -14,8 +14,8 @@ const Footer = () =>{
                             </a> */}
                             <p class="mt-">An ambitious Nigerian youth with a dynamic vision on simple to complex algorithms, and an understanding to multi programming languages, some presented below in the portfolio section. </p>
                             <ul>
-                                <li><a href="https://github.com/ralu-ugo" target = "_blank"><i class="lni-github"></i></a></li>
-                                <li><a href="https://www.linkedin.com/in/ralu-ugochukwu-6b6566225/" targegt = "_blank"><i class="lni-linkedin-original"></i></a></li>
+                                <li><a href="https://github.com/ralu-ugo" target = "_blank" rel="noreferrer"><i class="lni-github"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/ralu-ugochukwu-6b6566225/" targegt = "_blank" rel="noreferrer"><i class="lni-linkedin-original"></i></a></li>
                             </ul>
                         </div> 
                     </div>

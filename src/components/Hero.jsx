@@ -57,8 +57,8 @@ const Hero = () =>{
                         <div class="col-lg-12">
                             <div class="header-social-icon">
                                 <ul>
-                                    <li><a href="https://github.com/ralu-ugo" target = "_blank"><i class="lni-github-original"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/ralu-ugochukwu-6b6566225/" target = "_blank"><i class="lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://github.com/ralu-ugo" target = "_blank" rel="noreferrer"><i class="lni-github-original"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ralu-ugochukwu-6b6566225/" target = "_blank" rel="noreferrer"><i class="lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div> 
                         </div>

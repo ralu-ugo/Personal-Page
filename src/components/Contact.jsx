@@ -73,7 +73,7 @@ const Contact = () =>{
                 <div class="col-lg-6">
                     <div class="contact-map mt-60">
                         <div class="gmap_canvas">                            
-                            <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=64b%20Anifowoshe%20Street&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                            <iframe title = "virtual-map"id="gmap_canvas" src="https://maps.google.com/maps?q=64b%20Anifowoshe%20Street&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                         </div>
                     </div> 
                 </div>
