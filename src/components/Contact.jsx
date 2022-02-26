@@ -21,7 +21,7 @@ const Contact = () =>{
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Address</h6>
-                            <p>64 Anifowoshe Street Lagos, Nigeria</p>
+                            <p>Lagos, Nigeria</p>
                         </div>
                     </div> 
                 </div>
@@ -45,7 +45,7 @@ const Contact = () =>{
                         <div class="contact-content">
                             <h6 class="contact-title">Email</h6>
                             <p>ralu2k3@gmail.com</p>
-                            <p>info@helpline.com</p>
+                            <p>  </p>
                         </div>
                     </div> 
                 </div>

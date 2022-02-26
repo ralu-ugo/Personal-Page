@@ -9,7 +9,7 @@ const Portfolio = () =>{
                 <div class="col-lg-8">
                     <div class="section-title pb-25">
                         <h2 class="title">My Recent Works</h2>
-                        <p>Click any of my projects to take you to the live preview or the repository on github.</p>
+                        <p>Click any of my projects to see a live preview, or the GitHub repo.</p>
                     </div> 
                 </div>
             </div> 
